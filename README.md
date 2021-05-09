@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ● 🌱 I’m currently learning cSharp  
+● 👀 Languages: NodeJS  
 
 ### Reach me ✌
 ● Discord: Clue#7612  
